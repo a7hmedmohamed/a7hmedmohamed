@@ -16,7 +16,7 @@
 <h1 align="center">Hi 👋, I'm AhmedMohamed</h1>
 <h3 align="center">Data Analyst | BI Developer</h3>
 
-[![LinkedIn Badge](https://www.linkedin.com/in/ahmed-mohamed-1a660342a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkI4MIsZTSehxH06TYGN4w%3D%3D/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Abdallah_Nasser_LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/abdallahanalyst/)](https://www.linkedin.com/in/abdallahanalyst/)
 [![Portfolio Website](https://img.shields.io/badge/-My_Portfolio-03a57a?style=flat-square&logo=web&logoColor=white&link=https://abdallahnasser.netlify.app/)](https://abdallahnasser.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-My_Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamabdallahnasser@gmail.com)](mailto:iamabdallahnasser@gmail.com)
 
