@@ -13,11 +13,10 @@
 </pre>
 
 
-<h1 align="center">Hi 👋, I'm AhmedMohamed</h1>
+<h1 align="center">Hi 👋, I'm AHMEDMOHAMED</h1>
 <h3 align="center">Data Analyst | BI Developer</h3>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-AHMEDMOHAMED_LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ahmed-mohamed-1a660342a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkI4MIsZTSehxH06TYGN4w%3D%3D)](https://www.linkedin.com/in/ahmed-mohamed-1a660342a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkI4MIsZTSehxH06TYGN4w%3D%3D)
-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ahmed-mohamed-1a660342a/\)](https://www.linkedin.com/in/ahmed-mohamed-1a660342a/))
+[![LinkedIn Badge](https://img.shields.io/badge/-Abdallah_Nasser_LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ahmed-mohamed-1a660342a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkI4MIsZTSehxH06TYGN4w%3D%3D)](https://www.linkedin.com/in/ahmed-mohamed-1a660342a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkI4MIsZTSehxH06TYGN4w%3D%3D)
 [![Portfolio Website](https://img.shields.io/badge/-My_Portfolio-03a57a?style=flat-square&logo=web&logoColor=white&link=https://abdallahnasser.netlify.app/)](https://abdallahnasser.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/-My_Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamabdallahnasser@gmail.com)](mailto:iamabdallahnasser@gmail.com)
 
@@ -37,12 +36,12 @@ square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ahmed-moha
 
 - 📫 How to reach me **iamabdallahnasser@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FapXf-nE5o8WuMGzANpkgS1qo2JqhniP/view?usp=drive_link](https://drive.google.com/file/d/1FapXf-nE5o8WuMGzANpkgS1qo2JqhniP/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1FapXf-nE5o8WuMGzANpkgS1qo2JqhniP/view?usp=drive_link
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdallahanalyst/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdallahanalyst/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-mohamed-1a660342a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkI4MIsZTSehxH06TYGN4w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-mohamed-1a660342a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkI4MIsZTSehxH06TYGN4w%3D%3D" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdallahprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdallahprogrammer" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100087204513961&locale=ar_AR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallah nasser" height="30" width="40" /></a>
 <a href="https://medium.com/@sabelalhedaya5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sabelalhedaya5" height="30" width="40" /></a>
@@ -84,9 +83,9 @@ square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ahmed-moha
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahnasserr&show_icons=true&locale=en&layout=compact" alt="abdallahnasserr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallahnasserr&show_icons=true&locale=en" alt="abdallahnasserr" /></p>
-<!--
-> Not Opted to Hire
--->
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallahnasserr&show_icons=true&locale=en" alt="abdallahnasserr" /></p> 
+<!-- 
+> Not Opted to Hire 
+--> 
+ 
  Last Updated on 09/04/2025
