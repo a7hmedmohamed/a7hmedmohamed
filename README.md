@@ -18,9 +18,9 @@
 
 - 📝 I regularly write articles on [Medium Profile](https://medium.com/@sabelalhedaya5)
 
-- 💬 Ask me about **SQL, Python, Power BI, Tableau, Excel, Looker Studio**
+- 💬 Ask me about **SQL, Python, Power BI, Tableau, Excel, Looker Studio, c++**
 
-- 📫 How to reach me **iamabdallahnasser@gmail.com**
+- 📫 How to reach me **a7hmed70mohamed@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1FapXf-nE5o8WuMGzANpkgS1qo2JqhniP/view?usp=drive_link
 
