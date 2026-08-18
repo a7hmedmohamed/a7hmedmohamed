@@ -29,7 +29,7 @@
 <a href="https://kaggle.com/abdallahprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdallahprogrammer" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahmed.mohamed.802772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallah nasser" height="30" width="40" /></a>
 <a href="https://medium.com/@sabelalhedaya5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sabelalhedaya5" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@AbdallahAnalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdallah nasser - data analysis" height="30" width="40" /></a>
+<a href="https:/www.youtube.com/@AhmedMohamed-r5z9d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdallah nasser - data analysis" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages:</h3>
