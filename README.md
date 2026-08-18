@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **a7hmed70mohamed@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1FapXf-nE5o8WuMGzANpkgS1qo2JqhniP/view?usp=drive_link
+
 
 
 <h3 align="left">Connect with me:</h3>
