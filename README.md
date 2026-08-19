@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/ahmed-mohamed-1a660342a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkI4MIsZTSehxH06TYGN4w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.kaggle.com/a7med3ohamedhassan/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxkI4MIsZTSehxH06TYGN4w%3D%3D" height="30" width="40" /></a>
-<a href="https://kaggle.com/abdallahprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdallahprogrammer" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/a7med3ohamedhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdallahprogrammer" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahmed.mohamed.802772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallah nasser" height="30" width="40" /></a>
 <a href="https://medium.com/@a7hmed70mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sabelalhedaya5" height="30" width="40" /></a>
 
