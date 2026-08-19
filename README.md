@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning **SQL,Python,Power BI**
+- 🌱 I’m currently learning **SQL,Python,Power BI,flutter**
 
 - 📝 I regularly write articles on [Medium Profile](https://medium.com/@a7hmed70mohamed)
 
