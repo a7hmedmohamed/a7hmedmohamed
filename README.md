@@ -61,8 +61,6 @@
 </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallahnasserr&show_icons=true&locale=en&layout=compact" /></p>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-</a>
+
 
 
