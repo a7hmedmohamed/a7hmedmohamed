@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **SQL,Python,Power BI**
 
-- 📝 I regularly write articles on [Medium Profile](https://medium.com/@sabelalhedaya5)
+- 📝 I regularly write articles on [Medium Profile](https://medium.com/@a7hmed70mohamed)
 
 - 💬 Ask me about **SQL, Python, Power BI, Tableau, Excel, Looker Studio, c++**
 
